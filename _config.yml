@@ -1,4 +1,4 @@
-theme: jekyll-theme-cayman
+theme: jekyll-theme-slate
 title: Ingestix
 description: Focus on your data logic, not on SIGTERM handling or TCP framing.
 github_repo: https://github.com/ingestix/ingestix

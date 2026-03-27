@@ -11,9 +11,13 @@
 <div align="center">
 
 [![Build Status](https://github.com/ingestix/ingestix/actions/workflows/ci.yml/badge.svg)](https://github.com/ingestix/ingestix/actions/workflows/ci.yml)
+
 [![Crates.io Version](https://img.shields.io/crates/v/ingestix.svg)](https://crates.io/crates/ingestix)
-[![License](https://img.shields.io/badge/license-MIT%2FApache--2.0-blue.svg)](LICENSE-MIT)
+
+[![License](https://img.shields.io/badge/license-MIT%2FApache--2.0-blue.svg)](https://github.com/ingestix/ingestix/blob/main/LICENSE-MIT)
+
 ![Version](https://img.shields.io/badge/version-0.1.0--alpha-blue)
+
 ![Rust](https://img.shields.io/badge/rust-1.75%2B-brown?logo=rust)
 
 </div>
