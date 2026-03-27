@@ -1,8 +1,3 @@
----
-layout: default
-title: Home
----
-
 <p align="center">
   <a href="https://github.com/ingestix/ingestix">
     <img src="https://raw.githubusercontent.com/ingestix/.github/main/profile/ingestix_hero.png" alt="Ingestix Hero" width="600">
